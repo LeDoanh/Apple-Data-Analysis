@@ -1,7 +1,7 @@
 # Apple-Data-Analysis
 Phân tích dữ liệu các giao dịch khách hàng mua sản phẩm của Apple từ dataset Global Superstore và tiến hành trực quan hoá dữ liệu trên Excel.
 
-Với minicase1 phân tích các chỉ số như (Tại sheet Apple ở dưới):
+Với minicase1 phân tích các chỉ số như (tại sheet Apple ở dưới):
 - Market Share
 - Growth Rate
 - Đưa ra giả định và tính Acquisition Rate, Acquisition Cost
@@ -13,7 +13,7 @@ Với minicase1 phân tích các chỉ số như (Tại sheet Apple ở dưới)
 - Avg. Lifetime Duration
 - P (Active)
 
-Với minicase2 phân tích các chỉ số (ở sheet Apple):
+Với minicase2 phân tích các chỉ số (tại sheet Apple):
 - Size of Wallet
 - Share of Category Requirement
 - Share of Wallet

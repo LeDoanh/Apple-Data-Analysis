@@ -1,5 +1,5 @@
 # Apple-Data-Analysis
-Phân tích dữ liệu các giao dịch khách hàng mua sản phẩm của Apple từ dataset Global Superstore và tiến hành trực quan hoá dữ liệu trên Excel
+Phân tích dữ liệu các giao dịch khách hàng mua sản phẩm của Apple từ dataset Global Superstore và tiến hành trực quan hoá dữ liệu trên Excel.
 
 Với minicase1 phân tích các chỉ số như (Tại sheet Apple ở dưới):
 - Market Share
